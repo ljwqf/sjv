@@ -5,3 +5,4 @@ Set the value of JAVA_HOME to any value in the environment variables, and set th
 just like it:
 
 ！[env](https://github.com/ljwqf/sjv/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250215005317.png)
+！[command](https://github.com/ljwqf/sjv/blob/main/command_example.png)
